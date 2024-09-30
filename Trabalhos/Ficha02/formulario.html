@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário de Exemplo</title>
+</head>
+<body>
+    <form action="#" method="post">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome"><br><br>
+
+        <label>Idade:</label><br>
+        <input type="radio" id="menos18" name="idade" value="<18">
+        <label for="menos18">Menos de 18</label><br>
+        <input type="radio" id="19a35" name="idade" value="19-35">
+        <label for="19a35">19-35</label><br>
+        <input type="radio" id="36a48" name="idade" value="36-48">
+        <label for="36a48">36-48</label><br>
+        <input type="radio" id="mais49" name="idade" value=">49">
+        <label for="mais49">Mais de 49</label><br><br>
+
+        <label for="profissao">Profissão:</label>
+        <input type="text" id="profissao" name="profissao"><br><br>
+
+        <label for="pais">País:</label>
+        <select id="pais" name="pais">
+            <option value="pt">Portugal</option>
+            <option value="br">Brasil</option>
+            <option value="es">Espanha</option>
+            <option value="fr">França</option>
+        </select><br><br>
+
+        <label>Interesses:</label><br>
+        <select name="interesses" multiple>
+            <option value="desporto">Desporto</option>
+            <option value="tecnologia">Tecnologia</option>
+            <option value="musica">Música</option>
+            <option value="viagens">Viagens</option>
+        </select><br><br>
+
+        <label for="pesquisa">Como conheceu o site:</label><br>
+        <textarea id="pesquisa" name="pesquisa"></textarea><br><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+
+    <footer>
+        <p>Trabalho realizado por Gonçalo Garrido, Número de Aluno: A038702</p>
+    </footer>
+</body>
+</html>
