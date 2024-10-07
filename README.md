@@ -32,6 +32,16 @@
 - [Exercício 2 - Ligações 1](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/ligacoes1.html)
 - [Exercício 3 - Ligações 2](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/ligacoes2.html)
 - [Exercício 4 - Ligações 3](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/ligacoes3.html)
+#### Ficha 05
+- [Exercício 1 - Hiperligações](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/hiperligacoes.html)
+- [Exercício 2 - Ligações 1](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/ligacoes1.html)
+- [Exercício 3 - Ligações 2](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha05/ligacoes2.html)
+#### **Ficha 01**
+- [Trabalho Ficha 01 - CSS](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha01-Css.md)
+#### **Ficha 02**
+- [Trabalho Ficha 02 - CSS](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha02-Css.md)
+#### **Ficha 03**
+- [Trabalho Ficha 03 - CSS](https://faculdadelicenciatura.github.io/Tecnologias-Internet/Trabalhos/Ficha03-Css.md)
 
 ### Testes
 
